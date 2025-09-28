@@ -1,3 +1,5 @@
+Dankook University, 3rd Year 1st Semester (Spring 2025)
+
 # Android Rhythm Game with Embedded Hardware
 
 This repository contains the source code and documentation for a rhythm game developed for the **Mobile System Programming** course at Dankook University. This project, completed in Spring 2025, integrates an **Android app** with external hardware via an **FPGA board**.
