@@ -1,4 +1,4 @@
-Dankook University, 3rd Year 1st Semester (Spring 2025) 
+Dankook University, 3rd Year 1st Semester (Spring 2025)
 
 # Android Rhythm Game with Embedded Hardware
 
